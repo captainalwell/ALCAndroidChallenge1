@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">ALC 4 Phase 1</string>
+<string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+<string name="button_alc">ABOUT ALC</string>
+<string name="button_my_profile">MY PROFILE</string>
+<string name="captain_alwell">Captain Alwell</string>
+<string name="track">Track:  Android</string>
+<string name="my_email">Email: captainalwell@gmail.com</string>
+<string name="country_nigeria">Country: Nigeria</string>
+<string name="phone_number">Phone Number: +234 706 522 4863</string>
+<string name="slack_username">Slack Username: @Captain Alwell</string>
+    <string name="profile_picture">profile picture</string>
+
+
+</resources>

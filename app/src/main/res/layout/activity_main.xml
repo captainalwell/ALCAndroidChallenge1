@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView_welco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="false"
+        android:layout_marginTop="38dp"
+        android:text="@string/welcome_to_alc_4_0"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/btn_abt_alc"
+        android:layout_width="135dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="136dp"
+        android:background="@android:color/holo_orange_dark"
+        android:text="@string/button_alc"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_my_profile"
+        android:layout_width="135dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="false"
+        android:layout_marginTop="231dp"
+
+        android:background="@android:color/holo_orange_dark"
+        android:text="@string/button_my_profile"
+        android:textSize="16sp" />
+</RelativeLayout>
